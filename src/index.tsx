@@ -73,17 +73,18 @@ function CSSTransition({
       in={show}
       nodeRef={nodeRef}
       addEndListener={(done) => {
-        nodeRef.current?.addEventListener(
-          'transitionend',
-          (e) => {
-            if (!isChild || e.target === nodeRef.current) {
-              done();
-            } else if (isChild) {
-              e.stopPropagation();
-            }
-          },
-          false
-        );
+        nodeRef.current &&
+          nodeRef.current.addEventListener(
+            'transitionend',
+            (e) => {
+              if (!isChild || e.target === nodeRef.current) {
+                done();
+              } else if (isChild) {
+                e.stopPropagation();
+              }
+            },
+            false
+          );
       }}
       onEnter={() => {
         addClasses([...enterClasses, ...enterFromClasses]);

@@ -152,7 +152,7 @@
         "affectsGlobalScope": false
       },
       "../src/index.tsx": {
-        "version": "8e6a7a2bfafc604a7d84fb30611d0599ab4e3c0fd7151696f5a96c9a3cbc99d6",
+        "version": "a8dc5789f0e6a029d4bb8f899f5985f33aebffe6349c87f3216ec16d24132f05",
         "signature": "95df8268d8d4bdc6e56be2292c700a71903f4a606d94f1b3d4280bce859d361c",
         "affectsGlobalScope": false
       }
