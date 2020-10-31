@@ -1,0 +1,291 @@
+{
+  "program": {
+    "fileInfos": {
+      "../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "signature": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "signature": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b5e4c2d67aa844ed503b29cd4ca2ede1a229ac7fe874613b2c996fa9c581a25f",
+        "signature": "b5e4c2d67aa844ed503b29cd4ca2ede1a229ac7fe874613b2c996fa9c581a25f",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/react/global.d.ts": {
+        "version": "ecf78e637f710f340ec08d5d92b3f31b134a46a4fcf2e758690d8c46ce62cba6",
+        "signature": "ecf78e637f710f340ec08d5d92b3f31b134a46a4fcf2e758690d8c46ce62cba6",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/csstype/index.d.ts": {
+        "version": "c89da57b29cf0a695fe46e6ab8cd7d64edb15a6708ae2352e30d79a3936ccc5c",
+        "signature": "c89da57b29cf0a695fe46e6ab8cd7d64edb15a6708ae2352e30d79a3936ccc5c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/prop-types/index.d.ts": {
+        "version": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad",
+        "signature": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react/index.d.ts": {
+        "version": "bc0442bf081aef1f744186372dc384f891ebdf7f3985a13788b7a7f65d353465",
+        "signature": "bc0442bf081aef1f744186372dc384f891ebdf7f3985a13788b7a7f65d353465",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/react-transition-group/transition.d.ts": {
+        "version": "92decc8ffcee1e19965486f4c7440ab3fee1d6dfde4054eb308fc57b466cc12a",
+        "signature": "92decc8ffcee1e19965486f4c7440ab3fee1d6dfde4054eb308fc57b466cc12a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-transition-group/csstransition.d.ts": {
+        "version": "1429ac61feca4fdc074f60eb9b07f8b9e2c0ef9335c26e18d05f8ab67653f72b",
+        "signature": "1429ac61feca4fdc074f60eb9b07f8b9e2c0ef9335c26e18d05f8ab67653f72b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-transition-group/transitiongroup.d.ts": {
+        "version": "e0db728e68cfb650b729496d5b1cb436930f593b6bf5b4ad692c18ebe40e9ee0",
+        "signature": "e0db728e68cfb650b729496d5b1cb436930f593b6bf5b4ad692c18ebe40e9ee0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-transition-group/switchtransition.d.ts": {
+        "version": "9155a57743465e6540e3e81a73f3d0c0630a5c5ff80e1be6232fbd46bcb6dc90",
+        "signature": "9155a57743465e6540e3e81a73f3d0c0630a5c5ff80e1be6232fbd46bcb6dc90",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-transition-group/config.d.ts": {
+        "version": "960a68ced7820108787135bdae5265d2cc4b511b7dcfd5b8f213432a8483daf1",
+        "signature": "960a68ced7820108787135bdae5265d2cc4b511b7dcfd5b8f213432a8483daf1",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/react-transition-group/index.d.ts": {
+        "version": "a287b3414eb03d7697e2573baa57af270d64e44c3146dc4b721c1ba022f4121b",
+        "signature": "a287b3414eb03d7697e2573baa57af270d64e44c3146dc4b721c1ba022f4121b",
+        "affectsGlobalScope": false
+      },
+      "../src/index.tsx": {
+        "version": "8e6a7a2bfafc604a7d84fb30611d0599ab4e3c0fd7151696f5a96c9a3cbc99d6",
+        "signature": "95df8268d8d4bdc6e56be2292c700a71903f4a606d94f1b3d4280bce859d361c",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "incremental": true,
+      "target": 4,
+      "outDir": "./main",
+      "rootDir": "../src",
+      "moduleResolution": 2,
+      "module": 1,
+      "declaration": true,
+      "inlineSourceMap": true,
+      "esModuleInterop": true,
+      "resolveJsonModule": true,
+      "strict": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noImplicitReturns": true,
+      "noFallthroughCasesInSwitch": true,
+      "traceResolution": false,
+      "listEmittedFiles": false,
+      "listFiles": false,
+      "pretty": true,
+      "jsx": 2,
+      "lib": [
+        "lib.es2017.d.ts",
+        "lib.dom.d.ts"
+      ],
+      "types": [],
+      "typeRoots": [
+        "../node_modules/@types",
+        "../src/types"
+      ],
+      "project": "../tsconfig.json",
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../node_modules/@types/react-transition-group/csstransition.d.ts": [
+        "../node_modules/@types/react-transition-group/transition.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react-transition-group/index.d.ts": [
+        "../node_modules/@types/react-transition-group/config.d.ts",
+        "../node_modules/@types/react-transition-group/csstransition.d.ts",
+        "../node_modules/@types/react-transition-group/switchtransition.d.ts",
+        "../node_modules/@types/react-transition-group/transition.d.ts",
+        "../node_modules/@types/react-transition-group/transitiongroup.d.ts"
+      ],
+      "../node_modules/@types/react-transition-group/switchtransition.d.ts": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react-transition-group/transition.d.ts": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react-transition-group/transitiongroup.d.ts": [
+        "../node_modules/@types/react-transition-group/transition.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react/index.d.ts": [
+        "../node_modules/@types/prop-types/index.d.ts",
+        "../node_modules/@types/react/global.d.ts",
+        "../node_modules/csstype/index.d.ts"
+      ],
+      "../src/index.tsx": [
+        "../node_modules/@types/react-transition-group/index.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../node_modules/@types/react-transition-group/csstransition.d.ts": [
+        "../node_modules/@types/react-transition-group/transition.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react-transition-group/index.d.ts": [
+        "../node_modules/@types/react-transition-group/config.d.ts",
+        "../node_modules/@types/react-transition-group/csstransition.d.ts",
+        "../node_modules/@types/react-transition-group/switchtransition.d.ts",
+        "../node_modules/@types/react-transition-group/transition.d.ts",
+        "../node_modules/@types/react-transition-group/transitiongroup.d.ts"
+      ],
+      "../node_modules/@types/react-transition-group/switchtransition.d.ts": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react-transition-group/transition.d.ts": [
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react-transition-group/transitiongroup.d.ts": [
+        "../node_modules/@types/react-transition-group/transition.d.ts",
+        "../node_modules/@types/react/index.d.ts"
+      ],
+      "../node_modules/@types/react/index.d.ts": [
+        "../node_modules/@types/prop-types/index.d.ts",
+        "../node_modules/@types/react/global.d.ts",
+        "../node_modules/csstype/index.d.ts"
+      ],
+      "../src/index.tsx": [
+        "../node_modules/@types/react/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../node_modules/@types/prop-types/index.d.ts",
+      "../node_modules/@types/react-transition-group/config.d.ts",
+      "../node_modules/@types/react-transition-group/csstransition.d.ts",
+      "../node_modules/@types/react-transition-group/index.d.ts",
+      "../node_modules/@types/react-transition-group/switchtransition.d.ts",
+      "../node_modules/@types/react-transition-group/transition.d.ts",
+      "../node_modules/@types/react-transition-group/transitiongroup.d.ts",
+      "../node_modules/@types/react/global.d.ts",
+      "../node_modules/@types/react/index.d.ts",
+      "../node_modules/csstype/index.d.ts",
+      "../node_modules/typescript/lib/lib.dom.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../node_modules/typescript/lib/lib.es5.d.ts",
+      "../src/index.tsx"
+    ]
+  },
+  "version": "4.0.5"
+}
