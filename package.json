@@ -41,8 +41,11 @@
   "engines": {
     "node": ">=10"
   },
-  "dependencies": {
+  "peerDependencies": {
     "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "dependencies": {
     "react-transition-group": "^4.4.1"
   },
   "devDependencies": {
@@ -65,6 +68,8 @@
     "nyc": "^15.1.0",
     "open-cli": "^6.0.1",
     "prettier": "^2.1.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "standard-version": "^9.0.0",
     "ts-node": "^9.0.0",
     "typedoc": "^0.19.0",
